@@ -20,6 +20,13 @@ footer:
   social: Mídias
   credits: MIT License
 
+safe:        false
+host:        93.188.162.5
+port:        443
+baseurl:     /
+url:         https://leonardorifeli.com
+lsi:         false
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
