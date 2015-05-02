@@ -1,0 +1,23 @@
+{
+    "name": "leonardorifeli",
+    "description": "Website using jekyll",
+    "homepage": "http://leonardorifeli.com/",
+    "author": {
+        "name": "Leonardo Rifeli",
+        "url": "http://leonardorifeli.com/",
+        "email": "leonardorifeli@gmail.com"
+    },
+    "contributors": [
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/leonardorifeli/leonardorifeli.github.io.git"
+    },
+    "version": "0.2.0",
+    "dependencies": {
+        "express": "3.x",
+        "emailjs": "0.3.4",
+        "queue-async": "1.0.x"
+    },
+    "private": true
+}
